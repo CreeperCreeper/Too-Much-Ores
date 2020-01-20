@@ -1,2 +1,2 @@
 # TMO
-A mod that adds 18 new ores into minecraft.
+A mod that adds 11 new ores into minecraft.
