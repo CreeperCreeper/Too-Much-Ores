@@ -1,0 +1,16 @@
+[
+{
+  "modid": "toomuchores",
+  "name": "Too Much Ores",
+  "description": "Adds 18 new ores into the game.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["flapflops"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

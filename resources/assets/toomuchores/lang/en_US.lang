@@ -1,0 +1,10 @@
+item.ItemAmethyst.name=Amethyst Gem
+item.ItemSilver.name=Silver Bar
+item.ItemLeadBar.name=Lead Bar
+
+tile.BlockAmethystOre.name=Amethyst Ore
+tile.BlockLeadOre.name=Lead Ore
+tile.BlockSilverOre.name=Silver Ore
+tile.BlockAmethyst.name=Block of Amethyst
+itemGroup.tabTooMuchOres=TMO: Ores
+itemGroup.tabTooMuchOresIngots=TMO: Ingots
