@@ -1,10 +1,19 @@
-item.ItemAmethyst.name=Amethyst Gem
-item.ItemSilver.name=Silver Bar
-item.ItemLeadBar.name=Lead Bar
+//Ingots
+item.ItemAmethyst.name=Amethyst
+item.ItemSapphire.name=Sapphire
+item.ItemSilver.name=Silver Ingot
+item.ItemLeadBar.name=Lead Ingot
+item.ItemPlatinum.name=Platinum Ingot
+item.ItemZincIngot.name=Zinc Ingot
 
+// Ores
 tile.BlockAmethystOre.name=Amethyst Ore
 tile.BlockLeadOre.name=Lead Ore
+tile.BlockPlatinum.name=Platinum Ore
 tile.BlockSilverOre.name=Silver Ore
-tile.BlockAmethyst.name=Block of Amethyst
+tile.BlockSapphireOre.name=Sapphire Ore
+tile.BlockZincOre.name=Zinc Ore
+
+// Creative Tabs
 itemGroup.tabTooMuchOres=TMO: Ores
 itemGroup.tabTooMuchOresIngots=TMO: Ingots
